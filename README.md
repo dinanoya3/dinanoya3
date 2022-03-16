@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinanoya
 - 👀 I’m interested in WebDev/ML
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Three.js, React Three Fiber
 - 💞️ I’m looking to collaborate on React/other front end projects
 - 📫 How to reach me dinanoya3@gmail.com
 
