@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dina
 - 👀 I’m interested in Web Dev and Creative Coding
-- 🌱 I’m currently learning React, Three.js, React Three Fiber, D3.js, p5.js...list goes on forever
+- 🌱 I’m currently learning React, Three.js, D3.js, p5.js...list goes on forever
 - 💞️ I’m looking to collaborate on React/other front end projects
 - 📫 How to reach me dinanoya3@gmail.com
 
